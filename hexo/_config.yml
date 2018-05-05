@@ -5,10 +5,10 @@
 # Site
 title: Hexo
 subtitle:
-description:
+description: hello world
 keywords:
-author: John Doe
-language:
+author: 小板凳酒
+language: zh-Hans
 timezone:
 
 # URL
@@ -73,11 +73,12 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  github: https://github.com/lzy0809/lzy0809.github.io.git
+  repository: https://github.com/lzy0809/lzy0809.github.io.git
   branch: master
